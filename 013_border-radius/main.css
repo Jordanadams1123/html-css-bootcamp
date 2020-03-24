@@ -1,0 +1,33 @@
+div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("../000_img/Bird.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    border: 10px chartreuse solid;
+    border-radius: 100%;
+}
+
+.onebird {
+    border: 10px chartreuse double;
+}
+
+.twobird {
+    border: 10px chartreuse dashed;
+
+}
+
+.threebird {
+    border: 10px chartreuse ridge;
+
+}
+
+.fourbird {
+    border: 10px chartreuse dot-dot-dash;
+
+}
