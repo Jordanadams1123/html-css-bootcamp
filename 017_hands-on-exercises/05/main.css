@@ -1,0 +1,10 @@
+div {
+    width:300px;
+    height: 100px;
+    background-color: aquamarine;
+    border-radius: 30px;
+    border: 15px groove tomato;
+    background-image:url("../../000_img/Bird.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

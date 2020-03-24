@@ -1,0 +1,9 @@
+div {
+    width:300px;
+    height: 100px;
+    margin: 20px auto;
+}
+
+.hockey {
+    box-sizing: border-box;
+}
