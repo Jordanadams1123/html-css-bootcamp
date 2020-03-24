@@ -1,0 +1,34 @@
+div {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+img {
+    width: 200px;
+    box-sizing: border-box;
+    border: 10px chartreuse solid;
+    padding: 30px;
+    margin: 40px;
+}
+
+.onebird {
+    border: 10px chartreuse double;
+}
+
+.twobird {
+    border: 10px chartreuse dashed;
+
+}
+
+.threebird {
+    border: 10px chartreuse ridge;
+
+}
+
+.fourbird {
+    border: 10px chartreuse dot-dot-dash;
+
+}
