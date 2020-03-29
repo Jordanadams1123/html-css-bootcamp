@@ -1,0 +1,21 @@
+body {
+    font-size: 48px;
+    text-align: center;
+    border: 10px aqua double;
+}
+
+a:link {
+    color:rebeccapurple;
+}
+
+a:visited {
+    color: darkred;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: yellow;
+}
