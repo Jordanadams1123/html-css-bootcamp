@@ -1,0 +1,31 @@
+article:only-child {
+    color: palevioletred;
+}
+
+li:nth-child(3n+2) {
+    color: sandybrown;
+}
+
+body {
+    font-size: 36px;
+}
+
+li:nth-child(3) {
+    color: aqua;
+}
+
+li:nth-child(odd) {
+    color: red;
+}
+
+li:nth-child(even) {
+    color: blue;
+}
+
+li:last-child {
+    color: yellowgreen;
+}
+
+li:first-child {
+    color: darkorange;
+}
