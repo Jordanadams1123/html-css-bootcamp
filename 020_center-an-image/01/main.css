@@ -1,0 +1,15 @@
+* {
+    border: 2px dashed forestgreen;
+}
+
+div {
+    height: 200px;
+    border: 5px solid silver;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 10px groove navajowhite;
+    padding: 10px;
+}
